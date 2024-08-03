@@ -1,7 +1,7 @@
-# Prototype
+# Beta
 
-1. ~~Sprite specific shader.~~
-2. ~~Custom Fragment shader.~~
+~~1. Sprite specific shader.~~
+~~2. Custom Fragment shader.~~
 3. Shader loading and removing.
 4. Sprite specific shader properties.
 
