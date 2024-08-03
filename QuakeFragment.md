@@ -9,6 +9,7 @@
 
 1. Ability to set shader variables.
 2. Array controls.
+3. Better full screen shader controls
 
 # V2
 
