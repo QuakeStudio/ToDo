@@ -2,8 +2,9 @@
 
 ~~1. Sprite specific shader.~~
 ~~2. Custom Fragment shader.~~
-3. Shader loading and removing.
-4. Sprite specific shader properties.
+3. Rewrite extension to use Pen+ v7 system.
+4. Shader loading and removing.
+5. Sprite specific shader properties.
 
 # V1
 
