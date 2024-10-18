@@ -13,7 +13,7 @@
 1. ~~Ability to set shader variables.~~
 2. Array controls.
 3. Better full screen shader controls.
-4. Ability to run shader on a temp canvas and get the image data as an output. So like a compute shader but for images only.
+4. Render textures
 
 ## V2
 
