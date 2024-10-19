@@ -14,6 +14,7 @@
 2. Array controls.
 3. Better full screen shader controls.
 4. Render textures
+5. Videos
 
 ## V2
 
